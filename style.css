@@ -1,3 +1,23 @@
 header{
     background-color: darksalmon;
+    color: crimson;
 }
+ .cabecalho-imagem{
+    width: 20%;
+ }
+ .cabecalho{
+    background-color: darksalmon;
+    color: crimson;
+    display: flex;
+    justify-self:space-around;
+ }
+ cabecalho-lista-item{
+    display: onlline-block;
+    margin: 0 1 16px;
+    padding: 0 24px;
+    justify-content: espace space-around;
+    font-size: 24px;
+ }
+    meu site-imagem{
+        width:25%;
+    }
