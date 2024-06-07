@@ -21,3 +21,8 @@ header{
     meu site-imagem{
         width:25%;
     }
+    .escola{
+      background-image: linear-gradient(#383d58,    #00c0eb);
+      color:darksalmon;
+      display: flex;
+    }
